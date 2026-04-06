@@ -16,7 +16,7 @@
   width: 135px;
 }
 .logo {
-  background-image: url("./whitelogo.png");
+  background-image: url("whitelogo.png");
   background-size: cover;
   height: 50px;
   width: 100%;
@@ -119,7 +119,7 @@ span {
 }
 
 .hero-section {
-  background-image: url("./hero section.jpg");
+  background-image: url("hero section.jpg");
   background-size: cover;
   height: 350px;
 }
@@ -191,7 +191,7 @@ ul a {
   justify-content: center;
 }
 .Flogo {
-  background-image: url("./whitelogo.png");
+  background-image: url("whitelogo.png");
   background-size: cover;
   height: 50px;
   width: 150px;
